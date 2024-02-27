@@ -48,8 +48,12 @@ body{
 .calender div{
     flex-basis: 100px;
     margin-left: 50px;
+    font-size: 20px;
+    color: rgb(214, 217, 241);
+    border: solid rgb(20, 37, 134);
+    background-color: rgb(20, 37, 134);
+    font-weight: bolder;
+    border-radius: 10px;
+    text-align: center;
 }
 
-.calender div p{
-    font-size: 80px;
-}

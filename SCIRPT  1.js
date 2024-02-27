@@ -1,5 +1,3 @@
-alert("Success")
-
 var countDownDate = new Date("March 7, 2024 1:30:00").getTime();
 var x = setInterval(function(){
     var now = new Date().getTime();
