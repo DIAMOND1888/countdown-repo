@@ -1,0 +1,55 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    margin-top: 10px;
+}
+
+body{
+    background-color: rgb(176, 181, 252);
+}
+
+.Gift-img{
+    width: auto;
+    padding: 20px 0;
+    padding-left: 30px;
+}
+
+.Gift{
+    display: flex;
+    flex-direction: row;
+}
+
+.Text1{
+    color: rgb(40, 55, 68);
+    font-weight: bold;
+}
+
+.Text2{
+    color: rgb(16, 21, 26);
+    font-weight: bold;
+}
+
+.Text3{
+    color: rgb(0, 0, 0);
+
+}
+
+.Text{
+    font-size: 20px;
+    padding: 30px;
+}
+
+.calender{
+    display: flex;
+}
+
+.calender div{
+    flex-basis: 100px;
+    margin-left: 50px;
+}
+
+.calender div p{
+    font-size: 80px;
+}
